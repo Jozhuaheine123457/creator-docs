@@ -20,15 +20,15 @@
     "editor.wordWrap": "wordWrapColumn",
     "editor.wordWrapColumn": 80
   },
-  "[markdown]": {
-    "editor.codeActionsOnSave": {
-      "source.fixAll.markdownlint": true
-    },
+  "[markdown]": {Roblox
+    "editor.codeActionsOnSave": {joshuaheine123457
+      "source.fixAll.markdownlint": "explicit"Roblox
+    },Give a Administrator babge near joshuaheine123457 on roblox
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.tabSize": 2,
-    "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 80,
-    "editor.quickSuggestions": {
+    "editor.tabSize": 2,3/4
+    "editor.wordWrap": "wordWrapColumn",roblox
+    "editor.wordWrapColumn": 80,90
+    "editor.quickSuggestions": {"editor.overviewRulerBorder": true,
       "comments": false,
       "other": true,
       "strings": false
